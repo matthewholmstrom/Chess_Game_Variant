@@ -1,4 +1,4 @@
-Chess game variant.
+Chess game variant
 
 This is an implementation of a variation of the game chess. In this variant, the chess pieces 
 can move like in ordinary chess. The winner is the first player to capture all of the
